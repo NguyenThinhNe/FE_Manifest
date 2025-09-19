@@ -1,1 +1,1 @@
-# Manifest
+# Warranty Management FE Manifest
