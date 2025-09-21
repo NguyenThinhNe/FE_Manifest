@@ -32,11 +32,11 @@ spec:
         image: fleeforezz/warranty-management-fe:1.13-beta
         resources:
           limits:
-            cpu: "1000m"
-            memory: "1000Mi"
-          requests:
             cpu: "500m"
-            memory: "750Mi"
+            memory: "256Mi"
+          requests:
+            cpu: "100m"
+            memory: "256Mi"
         # volumeMounts:
         # - mountPath: "/"
         #   name: portfolio-storage
