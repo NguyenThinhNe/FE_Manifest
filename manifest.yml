@@ -29,7 +29,7 @@ spec:
     spec:
       containers:
       - name: warranty-management-fe-dev
-        image: fleeforezz/warranty-management-fe:1.13-beta
+        image: fleeforezz/warranty-management-fe:1.1-beta
         resources:
           limits:
             cpu: "500m"
